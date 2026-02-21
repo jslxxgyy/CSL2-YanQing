@@ -114,8 +114,8 @@ Please go to the [Releases Page](https://github.com/jslxxgyy/CSL2-YanQing/releas
 ## 致谢 排名不分先后  
 Thanks to [Paradox Interactive](https://www.paradoxinteractive.com/), [Colossal Order](https://colossalorder.fi/), [Iceflake Studios](https://iceflake.com/)  
 感谢[Paradox Interactive](https://www.paradoxinteractive.com/)、[Colossal Order](https://colossalorder.fi/)、[Iceflake Studios](https://iceflake.com/)  
-Thanks to [NG Creative](https://space.bilibili.com/1599914586) for providing such a stage as the NGC Cities: Skylines Gala  
-感谢[NG创意](https://space.bilibili.com/1599914586)提供NGC天际线拜年纪这么一个舞台  
+Thanks to [NG创意_NGCreation](https://space.bilibili.com/1599914586) for providing such a stage as the NGC Cities: Skylines Gala  
+感谢[NG创意_NGCreation](https://space.bilibili.com/1599914586)提供NGC天际线拜年纪这么一个舞台  
 Thanks to [我家是个大鱼缸](https://space.bilibili.com/400873) for the efforts put into the production of the NGC Cities: Skylines Gala  
 感谢[我家是个大鱼缸](https://space.bilibili.com/400873)对NGC天际线拜年纪的制作付出的努力  
 Thanks to [鱼煎糕](https://space.bilibili.com/12877710) for providing the live replay of the 2026 NGC Cities: Skylines Gala  
