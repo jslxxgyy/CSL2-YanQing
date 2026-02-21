@@ -1,10 +1,12 @@
-本文件夹存放的是2026NGC都市天际线拜年纪，第十二号作品——《岩庆》的相关资源。  
+# 2026NGC都市天际线拜年纪，第十二号作品——《岩庆》资源库  
+本文件夹存放的是 **2026 NGC 都市天际线拜年纪** 入选作品 —— **《岩庆》** 的相关配套资源。  
 内容包括：  
-- 存档本体  
-- 订阅的模组与资产列表  
-- 游戏与模组的设置  
-- 游戏运行环境  
-- 剪辑工程  
+- [存档本体](#-存档本体) 
+- [订阅的模组与资产列表](#-订阅的模组与资产列表)  
+- [游戏与模组的设置](#-游戏与模组的设置)  
+- [游戏运行环境](#-游戏运行环境)  
+- [剪辑工程](#-剪辑工程)
+- [致谢](#-致谢排名不分先后)
 
 # 存档本体  
 请从 releases 页面下载，或前往[Paradox Mods](https://mods.paradoxplaza.com/mods/135370/Any)下载  
@@ -37,16 +39,26 @@
 - CPU：12th Gen Intel(R) Core(TM) i5-12490F  
 - 主板：ASUS TX GAMING B760M WIFI D4  
 - GPU：ZOTAC RTX(TM) 3060 12GDDR6 X-GAMING GOC  
-- 内存：A2:KVR26N19S8L/8-SP  B2：KVR26N19S6L/8-SP  （双通道DDR4 16G 2666MHz超频到3200MHz）
-- 硬盘：长江存储 致态 TiPlus7100 1TB 黑神话悟空联名版
-- 显示器：PHILIPS 243V7 1920x1080 60HZ
-- 散热器：ASSASSIN KING 120SE 不带RGB
+- 内存：A2:KVR26N19S8L/8-SP  B2：KVR26N19S6L/8-SP  （双通道DDR4 16G 2666MHz超频到3200MHz）  
+- 硬盘：长江存储 致态 TiPlus7100 1TB 黑神话悟空联名版  
+- 显示器：PHILIPS 243V7 1920x1080 60HZ  
+- 散热器：ASSASSIN KING 120SE 不带RGB  
 ## 软件版本
-- Windows版本：Windows 11 专业版 25H2 10.0.26200.7840
-- 显卡驱动版本：591.86
-- 游戏版本：1.5.3f1(1434.37436)[6030.4046]
-- BepInEx版本：5.4.21.0 - Cities2 (2025/12/12 22:43:40)
-- 剪辑软件：Adobe Premiere Pro 25.1.0(内部版本73)
-- 封面制作：Adobe Photoshop 26.7.0 20250513.r.15 e861f5e x64
+- Windows版本：Windows 11 专业版 25H2 10.0.26200.7840  
+- 显卡驱动版本：591.86  
+- 游戏版本：1.5.3f1(1434.37436)[6030.4046]  
+- BepInEx版本：5.4.21.0 - Cities2 (2025/12/12 22:43:40)  
+- 剪辑软件：Adobe Premiere Pro 25.1.0(内部版本73)  
+- 封面制作：Adobe Photoshop 26.7.0 20250513.r.15 e861f5e x64  
+- AI音效合成：GPT-SoVITS-v2pro-20250604  
 # 剪辑工程    
 请从 releases 页面下载
+# 致谢 排名不分先后  
+感谢[Paradox Interactive](https://www.paradoxinteractive.com/)、[Colossal Order](https://colossalorder.fi/)、[Iceflake Studios](https://iceflake.com/)  
+感谢[NG创意](https://space.bilibili.com/1599914586)提供NGC天际线拜年纪这么一个舞台  
+感谢[我家是个大鱼缸](https://space.bilibili.com/400873)对NGC天际线拜年纪的制作付出的努力  
+感谢[鱼煎糕](https://space.bilibili.com/12877710)提供2026NGC天际线拜年纪的直播回放  
+感谢[影视飓风](https://space.bilibili.com/946974)，他们的这期视频：[爆肝1000小时！我们在公司里建了一座原神璃月港](https://www.bilibili.com/video/BV1MK4y1Q7d2/)，为此次城展分镜与画面构图提供了灵感和参考  
+感谢[花儿不哭](https://space.bilibili.com/5760446)，其开发的`GPT-Sovits`软件为城展中模拟站台广播的站名AI合成提供了支持  
+感谢[Carrilson](https://space.bilibili.com/180329843)，其开发的`全自动铁路客运广播系统`中的铁路广播信息被城展中模拟站台广播部分采用，并作为`GPT-Sovits`推理的参考音频  
+感谢[Wjy666999](https://space.bilibili.com/3546716674459675)、[林祁晏](https://space.bilibili.com/1664836110)、[冉帮你打掩护](https://space.bilibili.com/3546935499688665),他们试看了城展视频片段并提出了宝贵意见  
