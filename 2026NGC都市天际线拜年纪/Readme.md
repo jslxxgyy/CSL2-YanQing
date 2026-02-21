@@ -21,8 +21,8 @@ Contents include:
 
 ## Savegame
 ## 存档本体  
-- Local Download: Please download from the [releases page](https://github.com/jslxxgyy/CSL2-YanQing/releases)
-- 本地下载：请从[releases页面](https://github.com/jslxxgyy/CSL2-YanQing/releases)下载
+- Local Download: Please download from the [releases page](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA)
+- 本地下载：请从[releases页面](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA)下载
 - Mod Platform Subscription: Go to [Paradox Mods](https://mods.paradoxplaza.com/mods/135370/Any) to subscribe  
 - 模组平台订阅：前往[Paradox Mods](https://mods.paradoxplaza.com/mods/135370/Any)订阅  
 
@@ -39,8 +39,8 @@ Contents include:
 > WARNING: The savegame contains custom assets and mods not available in the store. You must install local assets to ensure the savegame loads correctly.
 > 警告:存档包含部分未在商店上架的自定义资产与模组,须安装本地资产与才能保证存档正常加载。
 
-Local assets and mods can be downloaded from the [releases page](https://github.com/jslxxgyy/CSL2-YanQing/releases)
-可从[releases页面](https://github.com/jslxxgyy/CSL2-YanQing/releases)下载本地资产与模组  
+Local assets and mods can be downloaded from the [releases page](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA)
+可从[releases页面](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA)下载本地资产与模组  
 
 
 ## Game & Mod Settings
@@ -107,8 +107,8 @@ Local assets and mods can be downloaded from the [releases page](https://github.
 ## 剪辑工程    
 The complete PR editing project files of the work have been uploaded for exchange and learning.  
 作品的完整 PR 剪辑工程文件已打包上传，可供交流学习。  
-Please go to the [Releases Page](https://github.com/jslxxgyy/CSL2-YanQing/releases) to download
-请前往 [Releases 页面](https://github.com/jslxxgyy/CSL2-YanQing/releases) 下载
+Please go to the [Releases Page](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA) to download
+请前往 [Releases 页面](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA) 下载
 
 ## Acknowledgments (In no particular order)
 ## 致谢 排名不分先后  
