@@ -1,24 +1,24 @@
 # 2026NGC都市天际线拜年纪，第十二号作品——《岩庆》资源库  
 本文件夹存放的是 **2026 NGC 都市天际线拜年纪** 入选作品 —— **《岩庆》** 的相关配套资源。  
 内容包括：  
-- [存档本体](#-存档本体) 
-- [订阅的模组与资产列表](#-订阅的模组与资产列表)  
-- [游戏与模组的设置](#-游戏与模组的设置)  
-- [游戏运行环境](#-游戏运行环境)  
-- [剪辑工程](#-剪辑工程)
-- [致谢](#-致谢排名不分先后)
+- [存档本体](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E5%AD%98%E6%A1%A3%E6%9C%AC%E4%BD%93)
+- [订阅的模组与资产列表](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E8%AE%A2%E9%98%85%E7%9A%84%E6%A8%A1%E7%BB%84%E4%B8%8E%E8%B5%84%E4%BA%A7%E5%88%97%E8%A1%A8)  
+- [游戏与模组的设置](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E6%B8%B8%E6%88%8F%E4%B8%8E%E6%A8%A1%E7%BB%84%E7%9A%84%E8%AE%BE%E7%BD%AE)  
+- [游戏运行环境](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E6%B8%B8%E6%88%8F%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83)  
+- [剪辑工程](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E5%89%AA%E8%BE%91%E5%B7%A5%E7%A8%8B)
+- [致谢](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E8%87%B4%E8%B0%A2-%E6%8E%92%E5%90%8D%E4%B8%8D%E5%88%86%E5%85%88%E5%90%8E)
 
-# 存档本体  
+## 存档本体  
 请从 releases 页面下载，或前往[Paradox Mods](https://mods.paradoxplaza.com/mods/135370/Any)下载  
 
-# 订阅的模组与资产列表  
+## 订阅的模组与资产列表  
 ![订阅的模组与资产列表](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/%E6%A8%A1%E7%BB%84%E8%AE%A2%E9%98%85.jpeg?raw=true)  
-## 本地资产与模组  
+### 本地资产与模组  
 警告:存档需要一些本地资产与模组才能正常运行,可从 releases 页面下载本地资产与模组  
 
-# 游戏与模组的设置  
-## 游戏设置  
-### 画面设置  
+## 游戏与模组的设置  
+### 游戏设置  
+#### 画面设置  
 ![画面设置1](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE1.png?raw=true)  
 ![画面设置2](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE2.png?raw=true)  
 ![画面设置3](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE3.png?raw=true)  
@@ -27,15 +27,15 @@
 ![画面设置6](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE6.png?raw=true)  
 ![画面设置7](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE7.png?raw=true)  
 
-### 画质模组设置  
-#### Sun Glasses  
+#### 画质模组设置  
+##### Sun Glasses  
 ![Sun Glasses设置](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Sun%20Glasses%E8%AE%BE%E7%BD%AE.png?raw=true)  
-#### Better Moonnight  
+##### Better Moonnight  
 ![Better Moonnight设置1](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Better%20Moonnight%E8%AE%BE%E7%BD%AE1.png?raw=true)  
 ![Better Moonnight设置2](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Better%20Moonnight%E8%AE%BE%E7%BD%AE2.png?raw=true)  
 
-# 游戏运行环境  
-## 电脑配置  
+## 游戏运行环境  
+### 电脑配置  
 - CPU：12th Gen Intel(R) Core(TM) i5-12490F  
 - 主板：ASUS TX GAMING B760M WIFI D4  
 - GPU：ZOTAC RTX(TM) 3060 12GDDR6 X-GAMING GOC  
@@ -43,7 +43,7 @@
 - 硬盘：长江存储 致态 TiPlus7100 1TB 黑神话悟空联名版  
 - 显示器：PHILIPS 243V7 1920x1080 60HZ  
 - 散热器：ASSASSIN KING 120SE 不带RGB  
-## 软件版本
+### 软件版本
 - Windows版本：Windows 11 专业版 25H2 10.0.26200.7840  
 - 显卡驱动版本：591.86  
 - 游戏版本：1.5.3f1(1434.37436)[6030.4046]  
@@ -51,9 +51,9 @@
 - 剪辑软件：Adobe Premiere Pro 25.1.0(内部版本73)  
 - 封面制作：Adobe Photoshop 26.7.0 20250513.r.15 e861f5e x64  
 - AI音效合成：GPT-SoVITS-v2pro-20250604  
-# 剪辑工程    
+## 剪辑工程    
 请从 releases 页面下载
-# 致谢 排名不分先后  
+## 致谢 排名不分先后  
 感谢[Paradox Interactive](https://www.paradoxinteractive.com/)、[Colossal Order](https://colossalorder.fi/)、[Iceflake Studios](https://iceflake.com/)  
 感谢[NG创意](https://space.bilibili.com/1599914586)提供NGC天际线拜年纪这么一个舞台  
 感谢[我家是个大鱼缸](https://space.bilibili.com/400873)对NGC天际线拜年纪的制作付出的努力  
