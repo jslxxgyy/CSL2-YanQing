@@ -46,7 +46,7 @@ Local assets and mods can be downloaded from the [releases page](https://github.
 ## Game & Mod Settings
 ## 游戏与模组的设置  
 ### Game Graphics Settings
-### 游戏设置  
+### 游戏画面设置  
 <details>
 <summary>Click to expand: Game graphics settings screenshots (7 total) / 点击展开：游戏画质设置截图 (共7张)</summary>
 <img src="https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE1.png?raw=true" alt="Graphics Settings 1"></br>
