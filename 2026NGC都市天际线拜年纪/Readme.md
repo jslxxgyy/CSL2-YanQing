@@ -45,10 +45,8 @@ Local assets and mods can be downloaded from the [releases page](https://github.
 
 ## Game & Mod Settings
 ## 游戏与模组的设置  
-### Game Settings
+### Game Graphics Settings
 ### 游戏设置  
-#### Graphics Settings
-#### 画面设置  
 <details>
 <summary>Click to expand: Game graphics settings screenshots (7 total) / 点击展开：游戏画质设置截图 (共7张)</summary>
 <img src="https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE1.png?raw=true" alt="Graphics Settings 1"></br>
@@ -61,15 +59,15 @@ Local assets and mods can be downloaded from the [releases page](https://github.
 </details>
 
 
-#### Graphics Mod Settings
-#### 画质模组设置  
-##### Sun Glasses  
+### Graphics Mod Settings
+### 画质模组设置  
+#### Sun Glasses  
 <details>
 <summary>Click to expand: Sun Glasses settings / 点击展开：Sun Glasses设置</summary>
 <img src="https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Sun%20Glasses%E8%AE%BE%E7%BD%AE.png?raw=true" alt="Sun Glasses Settings"></br>
 </details>
 
-##### Better Moonnight  
+#### Better Moonnight  
 <details>
 <summary>Click to expand: Better Moonnight settings (2 total) / 点击展开：Better Moonnight设置（共2张）</summary>
 <img src="https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Better%20Moonnight%E8%AE%BE%E7%BD%AE1.png?raw=true" alt="Better Moonnight Settings 1"></br>
@@ -85,7 +83,7 @@ Local assets and mods can be downloaded from the [releases page](https://github.
 | **CPU** | 12th Gen Intel(R) Core(TM) i5-12490F|
 | **Motherboard / 主板** | ASUS TX GAMING B760M WIFI D4 |
 | **GPU** | ZOTAC RTX(TM) 3060 12GDDR6 X-GAMING GOC |
-| **RAM / 内存** | A2:KVR26N19S8L/8-SP  B2：KVR26N19S6L/8-SP  (Dual Channel DDR4 16G 2666MHz OC 3200MHz)  |
+| **RAM / 内存** | A2:KVR26N19S8L/8-SP  B2:KVR26N19S6L/8-SP  (Dual Channel DDR4 16G 2666MHz OC 3200MHz)  |
 | **SSD / 硬盘** | Zhitai TiPlus7100 1TB (Black Myth: Wukong Limited Edition) |
 | **Monitor / 显示器** | PHILIPS 243V7 (1080P / 60Hz) |
 | **Cooler / 散热** | Thermalright Assassin King 120SE (No RGB) | 
