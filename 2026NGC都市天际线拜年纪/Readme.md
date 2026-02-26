@@ -19,6 +19,11 @@ Contents include:
 - [Acknowledgments](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E8%87%B4%E8%B0%A2-%E6%8E%92%E5%90%8D%E4%B8%8D%E5%88%86%E5%85%88%E5%90%8E)
 - [致谢](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E8%87%B4%E8%B0%A2-%E6%8E%92%E5%90%8D%E4%B8%8D%E5%88%86%E5%85%88%E5%90%8E)
 
+To watch the full 2026 NGC Cities: Skylines Gala video, and head to [here](https://www.bilibili.com/video/BV1JzZVBjEgg)  
+观看2026NGC都市天际线拜年纪全片，前往[这里](https://www.bilibili.com/video/BV1JzZVBjEgg)  
+To watch the 2026 NGC Cities: Skylines Gala video for Yanqing City, and head to [here](https://www.bilibili.com/video/BV1qzf7BdE7w)  
+观看2026NGC都市天际线拜年纪岩庆市单品，前往[这里](https://www.bilibili.com/video/BV1qzf7BdE7w)  
+
 ## Savegame
 ## 存档本体  
 - Local Download: Please download from the [releases page](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA)
