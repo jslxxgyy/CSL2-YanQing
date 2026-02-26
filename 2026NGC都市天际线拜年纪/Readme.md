@@ -14,8 +14,8 @@ Contents include:
 - [游戏与模组的设置](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E6%B8%B8%E6%88%8F%E4%B8%8E%E6%A8%A1%E7%BB%84%E7%9A%84%E8%AE%BE%E7%BD%AE)  
 - [Game Environment](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E6%B8%B8%E6%88%8F%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83)  
 - [游戏运行环境](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E6%B8%B8%E6%88%8F%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83)  
-- [Other Resources](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E5%89%AA%E8%BE%91%E5%B7%A5%E7%A8%8B)
-- [其他资源](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E5%89%AA%E8%BE%91%E5%B7%A5%E7%A8%8B)
+- [Other Resources](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)
+- [其他资源](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)
 - [Acknowledgments](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E8%87%B4%E8%B0%A2-%E6%8E%92%E5%90%8D%E4%B8%8D%E5%88%86%E5%85%88%E5%90%8E)
 - [致谢](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E8%87%B4%E8%B0%A2-%E6%8E%92%E5%90%8D%E4%B8%8D%E5%88%86%E5%85%88%E5%90%8E)
 
