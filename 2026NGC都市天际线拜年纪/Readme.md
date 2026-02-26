@@ -14,8 +14,8 @@ Contents include:
 - [游戏与模组的设置](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E6%B8%B8%E6%88%8F%E4%B8%8E%E6%A8%A1%E7%BB%84%E7%9A%84%E8%AE%BE%E7%BD%AE)  
 - [Game Environment](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E6%B8%B8%E6%88%8F%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83)  
 - [游戏运行环境](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E6%B8%B8%E6%88%8F%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83)  
-- [Editing Project](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E5%89%AA%E8%BE%91%E5%B7%A5%E7%A8%8B)
-- [剪辑工程](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E5%89%AA%E8%BE%91%E5%B7%A5%E7%A8%8B)
+- [Other Resources](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E5%89%AA%E8%BE%91%E5%B7%A5%E7%A8%8B)
+- [其他资源](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E5%89%AA%E8%BE%91%E5%B7%A5%E7%A8%8B)
 - [Acknowledgments](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E8%87%B4%E8%B0%A2-%E6%8E%92%E5%90%8D%E4%B8%8D%E5%88%86%E5%85%88%E5%90%8E)
 - [致谢](https://github.com/jslxxgyy/CSL2-YanQing/blob/main/2026NGC%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA/Readme.md#%E8%87%B4%E8%B0%A2-%E6%8E%92%E5%90%8D%E4%B8%8D%E5%88%86%E5%85%88%E5%90%8E)
 
@@ -101,12 +101,33 @@ Local assets and mods can be downloaded from the [releases page](https://github.
 | **Cover Design / 封面制作** | Adobe Photoshop 26.7.0 20250513.r.15 e861f5e x64  |
 | **AI Audio Synthesis / AI音效合成** | GPT-SoVITS-v2pro-20250604  |
 
-## Editing Project
-## 剪辑工程    
-The complete PR editing project files of the work have been uploaded for exchange and learning.  
-作品的完整 PR 剪辑工程文件已打包上传，可供交流学习。  
-Please go to the [Releases Page](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA) to download
-请前往 [Releases 页面](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA) 下载
+## Other Resources
+## 其他资源    
+The PR editing project file, PS cover project file, and high-bit-rate original video of the work have been packaged and uploaded for exchange and learning.   
+作品的 PR 剪辑工程文件、 PS 封面工程文件、高码率原视频等已打包上传，可供交流学习。  
+Please go to the [Releases Page](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA) to download  
+请前往 [Releases 页面](https://github.com/jslxxgyy/CSL2-YanQing/releases/tag/2026NGC%E5%A4%A9%E9%99%85%E7%BA%BF%E6%8B%9C%E5%B9%B4%E7%BA%AA) 下载  
+Resource Catalog:  
+资源目录：  
+
+- Yanqing.cok: Save file for Yanqing City.
+- Yanqing.cok：岩庆市的存档文件
+- Yanqing.cok.cid: Accompanying .cid file for the save file.
+- Yanqing.cok.cid：存档文件配套的cid文件
+- Loacl.Mods.and.Access.zip: Contains some custom assets and mods not available on the store; local assets must be installed to ensure the save loads correctly.
+- Loacl.Mods.and.Access.zip：包含部分未在商店上架的自定义资产与模组，须安装本地资产与才能保证存档正常加载。
+- Other.files.on.user.dir.mods.setting.and.so.on.zip: Other contents from the user data folder, including mod configuration files and more.
+- Other.files.on.user.dir.mods.setting.and.so.on.zip：用户数据文件夹中的其他内容，包括模组的配置文件等
+- 2026NGC.prproj: Adobe Premiere Pro editing project file for the city showcase video.
+- 2026NGC.prproj：城展视频的Adobe Premiere Pro剪辑工程文件
+- Cover.psd: Adobe Photoshop project file for the city showcase video cover.
+- Cover.psd：城展视频封面的Adobe Photoshop工程文件
+- P1.mp4:The high-bit rate original video of the single product from the city exhibition corresponds to P1 of the [Bilibili video](https://www.bilibili.com/video/BV1qzf7BdE7w)
+- P1.mp4：城展视频单品的高码率原视频，对应[Bilibili视频](https://www.bilibili.com/video/BV1qzf7BdE7w)的P1
+- P2.mp4:The high-bit rate original video of the single product from the city exhibition corresponds to P1 of the [Bilibili video](https://www.bilibili.com/video/BV1qzf7BdE7w)
+- P2.mp4：城展视频单品的高码率原视频，对应[Bilibili视频](https://www.bilibili.com/video/BV1qzf7BdE7w)的P2
+- P3.mp4:The high-bit rate original video of the single product from the city exhibition corresponds to P1 of the [Bilibili video](https://www.bilibili.com/video/BV1qzf7BdE7w)
+- P3.mp4：城展视频单品的高码率原视频，对应[Bilibili视频](https://www.bilibili.com/video/BV1qzf7BdE7w)的P3
 
 ## Acknowledgments (In no particular order)
 ## 致谢 排名不分先后  
