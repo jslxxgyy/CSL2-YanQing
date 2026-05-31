@@ -129,9 +129,9 @@ Resource Catalog:
 - Cover.psd：城展视频封面的Adobe Photoshop工程文件
 - P1.mp4:The high-bit rate original video of the single product from the city exhibition corresponds to P1 of the [Bilibili video](https://www.bilibili.com/video/BV1qzf7BdE7w)
 - P1.mp4：城展视频单品的高码率原视频，对应[Bilibili视频](https://www.bilibili.com/video/BV1qzf7BdE7w)的P1
-- P2.mp4:The high-bit rate original video of the single product from the city exhibition corresponds to P1 of the [Bilibili video](https://www.bilibili.com/video/BV1qzf7BdE7w)
+- P2.mp4:The high-bit rate original video of the single product from the city exhibition corresponds to P2 of the [Bilibili video](https://www.bilibili.com/video/BV1qzf7BdE7w)
 - P2.mp4：城展视频单品的高码率原视频，对应[Bilibili视频](https://www.bilibili.com/video/BV1qzf7BdE7w)的P2
-- P3.mp4:The high-bit rate original video of the single product from the city exhibition corresponds to P1 of the [Bilibili video](https://www.bilibili.com/video/BV1qzf7BdE7w)
+- P3.mp4:The high-bit rate original video of the single product from the city exhibition corresponds to P3 of the [Bilibili video](https://www.bilibili.com/video/BV1qzf7BdE7w)
 - P3.mp4：城展视频单品的高码率原视频，对应[Bilibili视频](https://www.bilibili.com/video/BV1qzf7BdE7w)的P3
 
 ## Acknowledgments (In no particular order)
